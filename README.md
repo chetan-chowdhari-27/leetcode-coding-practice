@@ -1,2 +1,2 @@
-# leetcode-coding-practice
-leetcode-python-coding-practice
+# Leetcode Coding Practice
+
